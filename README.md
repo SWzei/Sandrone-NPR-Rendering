@@ -5,7 +5,7 @@
 | 课程 | 图形绘制技术 |
 | 项目平台 | Unity 6000.5.3f1、Universal Render Pipeline 17.5.0 |
 | 目标平台 | Windows PC |
-| 源码仓库地址 |  |
+| 源码仓库地址 | [SWzei/Sandrone-NPR-Rendering: A Unity-based non-photorealistic rendering pipeline inspired by Genshin Impact style.](https://github.com/SWzei/Sandrone-NPR-Rendering) |
 
 ## 摘要
 

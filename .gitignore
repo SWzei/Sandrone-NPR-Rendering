@@ -38,8 +38,6 @@ sysinfo.txt
 # Local audit, scratch and superseded working records
 /work/
 /Unity/SandroneToon_M5Audit/
-/GI Chat History.md
-/原神风格非真实感渲染技术管线.pre-M0-20260714.md
 
 # Third-party source packages and converted character geometry. Keep locally;
 # their .meta files remain trackable so Unity GUID contracts stay stable.
