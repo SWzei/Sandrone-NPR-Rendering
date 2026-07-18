@@ -1,0 +1,60 @@
+# Normalize project-authored text while leaving binary assets untouched.
+* text=auto
+
+.gitattributes text eol=lf
+.gitignore text eol=lf whitespace=-blank-at-eof
+LICENSE    text eol=lf whitespace=-blank-at-eof
+*.cs       text eol=lf diff=csharp whitespace=-blank-at-eof
+*.cginc    text eol=lf
+*.compute  text eol=lf
+*.hlsl     text eol=lf
+*.shader   text eol=lf whitespace=-blank-at-eof
+*.shadergraph text eol=lf
+*.md       text eol=lf whitespace=-blank-at-eof
+*.json     text eol=lf
+*.py       text eol=lf
+*.asmdef   text eol=lf
+*.asmref   text eol=lf
+*.inputactions text eol=lf
+
+# Unity Force Text serialized assets.
+# Unity intentionally serializes many empty scalar values with a trailing
+# space, so Git's whitespace checker must not treat those engine-owned lines
+# as project-authored formatting errors.
+*.anim       text eol=lf merge=unityyamlmerge whitespace=-blank-at-eol,-blank-at-eof
+*.asset      text eol=lf merge=unityyamlmerge whitespace=-blank-at-eol,-blank-at-eof
+*.controller text eol=lf merge=unityyamlmerge whitespace=-blank-at-eol,-blank-at-eof
+*.mat        text eol=lf merge=unityyamlmerge whitespace=-blank-at-eol,-blank-at-eof
+*.meta       text eol=lf merge=unityyamlmerge whitespace=-blank-at-eol,-blank-at-eof
+*.overrideController text eol=lf merge=unityyamlmerge whitespace=-blank-at-eol,-blank-at-eof
+*.physicMaterial text eol=lf merge=unityyamlmerge whitespace=-blank-at-eol,-blank-at-eof
+*.physicsMaterial2D text eol=lf merge=unityyamlmerge whitespace=-blank-at-eol,-blank-at-eof
+*.playable   text eol=lf merge=unityyamlmerge whitespace=-blank-at-eol,-blank-at-eof
+*.prefab     text eol=lf merge=unityyamlmerge whitespace=-blank-at-eol,-blank-at-eof
+*.unity      text eol=lf merge=unityyamlmerge whitespace=-blank-at-eol,-blank-at-eof
+ProjectVersion.txt text eol=lf whitespace=-blank-at-eof
+
+# Binary formats.
+*.blend binary
+*.bmp   binary
+*.dll   binary
+*.exr   binary
+*.fbx   binary
+*.gif   binary
+*.ico   binary
+*.jpg   binary
+*.jpeg  binary
+*.mp3   binary
+*.mp4   binary
+*.ogg   binary
+*.pdf   binary
+*.png   binary
+*.psd   binary
+*.tga   binary
+*.tif   binary
+*.tiff  binary
+*.wav   binary
+*.zip   binary
+
+# Preserve the model modifier's original Chinese usage notice byte-for-byte.
+/ThirdParty/Sandrone/README_ORIGINAL_ZH.txt -text whitespace=-blank-at-eol,-blank-at-eof

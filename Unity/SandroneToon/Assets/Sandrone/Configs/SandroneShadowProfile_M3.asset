@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1b3913cdaa903b42b5894127f8b9dfa, type: 3}
+  m_Name: SandroneShadowProfile_M3
+  m_EditorClassIdentifier: Assembly-CSharp::SandroneToon.SandroneM3ShadowProfile
+  contractVersion: SandroneShadowProfile_v1_M3
+  castShadowStrength: 0.85
+  castShadowLow: 0.2
+  castShadowHigh: 0.8

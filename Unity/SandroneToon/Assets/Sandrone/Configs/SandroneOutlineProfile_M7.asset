@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cad9ae9c50de32645b83fd12ec81ef78, type: 3}
+  m_Name: SandroneOutlineProfile_M7
+  m_EditorClassIdentifier: Assembly-CSharp::SandroneToon.SandroneM7OutlineProfile
+  contractVersion: SandroneOutlineProfile_v1_M7
+  normalSource: GeneratedCoincidentPositionAverage_v1
+  masterWidth: 1
+  slots:
+  - materialIndex: 0
+    widthPixels: 0.72
+    color: {r: 0.22, g: 0.12, b: 0.15, a: 1}
+  - materialIndex: 1
+    widthPixels: 0.72
+    color: {r: 0.22, g: 0.12, b: 0.15, a: 1}
+  - materialIndex: 12
+    widthPixels: 1
+    color: {r: 0.15, g: 0.12, b: 0.14, a: 1}
+  - materialIndex: 13
+    widthPixels: 1.08
+    color: {r: 0.15, g: 0.12, b: 0.14, a: 1}
+  - materialIndex: 14
+    widthPixels: 0.9
+    color: {r: 0.24, g: 0.2, b: 0.16, a: 1}
+  - materialIndex: 15
+    widthPixels: 1.12
+    color: {r: 0.08, g: 0.08, b: 0.13, a: 1}
+  - materialIndex: 16
+    widthPixels: 1.1
+    color: {r: 0.1, g: 0.09, b: 0.13, a: 1}
+  - materialIndex: 17
+    widthPixels: 0.76
+    color: {r: 0.24, g: 0.13, b: 0.15, a: 1}
+  - materialIndex: 18
+    widthPixels: 0.82
+    color: {r: 0.24, g: 0.13, b: 0.15, a: 1}
+  - materialIndex: 20
+    widthPixels: 1.18
+    color: {r: 0.22, g: 0.04, b: 0.07, a: 1}
+  - materialIndex: 22
+    widthPixels: 1.28
+    color: {r: 0.22, g: 0.04, b: 0.07, a: 1}
+  - materialIndex: 23
+    widthPixels: 1.02
+    color: {r: 0.19, g: 0.08, b: 0.08, a: 1}
+  - materialIndex: 24
+    widthPixels: 0.92
+    color: {r: 0.25, g: 0.19, b: 0.09, a: 1}
+  - materialIndex: 26
+    widthPixels: 1.3
+    color: {r: 0.22, g: 0.04, b: 0.07, a: 1}

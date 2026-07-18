@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bdce284cc0ce7c345b4881d9e9de0b98, type: 3}
+  m_Name: SandroneRampProfile_M2
+  m_EditorClassIdentifier: Assembly-CSharp::SandroneToon.SandroneM2RampProfile
+  contractVersion: SandroneRampProfile_v1_M2
+  rampTexture: {fileID: 2800000, guid: 78ddaaec35ec5e54ebfd5b221521b447, type: 3}
+  rows:
+  - family: 0
+    displayName: Skin / Face
+    shadowMultiplier: {r: 0.72, g: 0.62, b: 0.66, a: 1}
+    litMultiplier: {r: 0.9, g: 0.87, b: 0.86, a: 1}
+    threshold: 0.52
+    materialIndices: 00000000010000000200000004000000050000001100000012000000130000001e000000
+  - family: 1
+    displayName: Light Cloth
+    shadowMultiplier: {r: 0.62, g: 0.64, b: 0.72, a: 1}
+    litMultiplier: {r: 0.92, g: 0.91, b: 0.88, a: 1}
+    threshold: 0.5
+    materialIndices: 0e0000000f00000014000000150000001600000017000000190000001a0000001b000000
+  - family: 2
+    displayName: Dark Cloth / Hair
+    shadowMultiplier: {r: 0.52, g: 0.5, b: 0.6, a: 1}
+    litMultiplier: {r: 0.86, g: 0.84, b: 0.82, a: 1}
+    threshold: 0.48
+    materialIndices: 0c0000000d000000100000001c0000001d000000
+  - family: 3
+    displayName: Metal
+    shadowMultiplier: {r: 0.57, g: 0.53, b: 0.64, a: 1}
+    litMultiplier: {r: 0.92, g: 0.86, b: 0.72, a: 1}
+    threshold: 0.5
+    materialIndices: 18000000
+  - family: 4
+    displayName: Eye
+    shadowMultiplier: {r: 0.66, g: 0.63, b: 0.76, a: 1}
+    litMultiplier: {r: 0.92, g: 0.9, b: 0.93, a: 1}
+    threshold: 0.46
+    materialIndices: 03000000060000000700000008000000090000000a0000000b000000

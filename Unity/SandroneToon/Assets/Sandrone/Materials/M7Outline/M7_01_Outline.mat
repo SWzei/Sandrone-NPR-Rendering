@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: M7_01_Outline
+  m_Shader: {fileID: 4800000, guid: a953b0205bedd7f4d97915c1e9352278, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 2010
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Ints: []
+    m_Floats:
+    - _M7DebugMode: 0
+    - _M7SlotId: 1
+    - _OutlineMasterWeight: 1
+    - _OutlinePixels: 0.72
+    - _OutlineWidthWeight: 1
+    m_Colors:
+    - _OutlineColor: {r: 0.22, g: 0.12, b: 0.15, a: 1}
+  m_BuildTextureStacks: []
+  m_AllowLocking: 1

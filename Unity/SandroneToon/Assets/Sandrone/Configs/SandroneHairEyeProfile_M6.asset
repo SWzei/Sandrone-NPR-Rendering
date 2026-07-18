@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a955bdb2166b62f48b9ad2a93c4b57de, type: 3}
+  m_Name: SandroneHairEyeProfile_M6
+  m_EditorClassIdentifier: Assembly-CSharp::SandroneToon.SandroneM6HairEyeProfile
+  contractVersion: SandroneHairEyeProfile_v1_M6
+  slots:
+  - materialIndex: 2
+    role: 1
+    eyeFlatLighting: 0
+    hairSpecularWeight: 0
+  - materialIndex: 3
+    role: 0
+    eyeFlatLighting: 0
+    hairSpecularWeight: 0
+  - materialIndex: 6
+    role: 2
+    eyeFlatLighting: 0.18
+    hairSpecularWeight: 0
+  - materialIndex: 7
+    role: 3
+    eyeFlatLighting: 0.2
+    hairSpecularWeight: 0
+  - materialIndex: 8
+    role: 3
+    eyeFlatLighting: 0.2
+    hairSpecularWeight: 0
+  - materialIndex: 9
+    role: 3
+    eyeFlatLighting: 0.25
+    hairSpecularWeight: 0
+  - materialIndex: 10
+    role: 3
+    eyeFlatLighting: 0.3
+    hairSpecularWeight: 0
+  - materialIndex: 11
+    role: 3
+    eyeFlatLighting: 0.22
+    hairSpecularWeight: 0
+  - materialIndex: 12
+    role: 4
+    eyeFlatLighting: 0
+    hairSpecularWeight: 1
+  - materialIndex: 13
+    role: 4
+    eyeFlatLighting: 0
+    hairSpecularWeight: 0.85
+  - materialIndex: 29
+    role: 5
+    eyeFlatLighting: 0
+    hairSpecularWeight: 0
+  hairSpecularIntensity: 0.16
+  hairSpecularPower: 28
+  hairSpecularThreshold: 0.52
+  hairSpecularSoftness: 0.06
+  hairSpecularColor: {r: 0.82, g: 0.76, b: 0.68, a: 1}

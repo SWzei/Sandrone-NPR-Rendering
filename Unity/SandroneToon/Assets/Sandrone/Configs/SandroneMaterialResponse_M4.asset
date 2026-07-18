@@ -1,0 +1,269 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1522fa29a9895941aebe42daa749d54, type: 3}
+  m_Name: SandroneMaterialResponse_M4
+  m_EditorClassIdentifier: Assembly-CSharp::SandroneToon.SandroneM4MaterialResponseProfile
+  contractVersion: SandroneMaterialResponseProfile_v1_M4
+  bodyControlMap: {fileID: 2800000, guid: 0c513bd2e70c7b2408c82a05a3b74d1e, type: 3}
+  skirtControlMap: {fileID: 2800000, guid: e56516c197edc484c92386a18ade7d7b, type: 3}
+  hairControlMap: {fileID: 2800000, guid: 77a5b86ba32b43045ace60fa2bb31ee3, type: 3}
+  neutralControlMap: {fileID: 2800000, guid: 0113e3fea1ecdff488981f3cda335be1, type: 3}
+  metalMatCap: {fileID: 2800000, guid: d6d9951154f4a5f46b21e823a2fb5c22, type: 3}
+  materials:
+  - materialIndex: 0
+    responseType: 0
+    featureGroup: 0
+    specularIntensity: 0
+    specularPower: 32
+    matCapIntensity: 0
+    metalMaskFallback: 0
+    overlayColorBoost: 1
+  - materialIndex: 1
+    responseType: 0
+    featureGroup: 0
+    specularIntensity: 0
+    specularPower: 32
+    matCapIntensity: 0
+    metalMaskFallback: 0
+    overlayColorBoost: 1
+  - materialIndex: 2
+    responseType: 0
+    featureGroup: 0
+    specularIntensity: 0
+    specularPower: 32
+    matCapIntensity: 0
+    metalMaskFallback: 0
+    overlayColorBoost: 1
+  - materialIndex: 3
+    responseType: 0
+    featureGroup: 0
+    specularIntensity: 0
+    specularPower: 32
+    matCapIntensity: 0
+    metalMaskFallback: 0
+    overlayColorBoost: 1
+  - materialIndex: 4
+    responseType: 0
+    featureGroup: 0
+    specularIntensity: 0
+    specularPower: 32
+    matCapIntensity: 0
+    metalMaskFallback: 0
+    overlayColorBoost: 1
+  - materialIndex: 5
+    responseType: 0
+    featureGroup: 0
+    specularIntensity: 0
+    specularPower: 32
+    matCapIntensity: 0
+    metalMaskFallback: 0
+    overlayColorBoost: 1
+  - materialIndex: 6
+    responseType: 0
+    featureGroup: 0
+    specularIntensity: 0
+    specularPower: 32
+    matCapIntensity: 0
+    metalMaskFallback: 0
+    overlayColorBoost: 1
+  - materialIndex: 7
+    responseType: 0
+    featureGroup: 0
+    specularIntensity: 0
+    specularPower: 32
+    matCapIntensity: 0
+    metalMaskFallback: 0
+    overlayColorBoost: 1
+  - materialIndex: 8
+    responseType: 0
+    featureGroup: 0
+    specularIntensity: 0
+    specularPower: 32
+    matCapIntensity: 0
+    metalMaskFallback: 0
+    overlayColorBoost: 1
+  - materialIndex: 9
+    responseType: 0
+    featureGroup: 0
+    specularIntensity: 0
+    specularPower: 32
+    matCapIntensity: 0
+    metalMaskFallback: 0
+    overlayColorBoost: 1
+  - materialIndex: 10
+    responseType: 0
+    featureGroup: 0
+    specularIntensity: 0
+    specularPower: 32
+    matCapIntensity: 0
+    metalMaskFallback: 0
+    overlayColorBoost: 1
+  - materialIndex: 11
+    responseType: 0
+    featureGroup: 0
+    specularIntensity: 0
+    specularPower: 32
+    matCapIntensity: 0
+    metalMaskFallback: 0
+    overlayColorBoost: 1
+  - materialIndex: 12
+    responseType: 0
+    featureGroup: 0
+    specularIntensity: 0
+    specularPower: 32
+    matCapIntensity: 0
+    metalMaskFallback: 0
+    overlayColorBoost: 1
+  - materialIndex: 13
+    responseType: 0
+    featureGroup: 0
+    specularIntensity: 0
+    specularPower: 32
+    matCapIntensity: 0
+    metalMaskFallback: 0
+    overlayColorBoost: 1
+  - materialIndex: 14
+    responseType: 3
+    featureGroup: 1
+    specularIntensity: 0.62
+    specularPower: 54
+    matCapIntensity: 0.34
+    metalMaskFallback: 0
+    overlayColorBoost: 1
+  - materialIndex: 15
+    responseType: 3
+    featureGroup: 1
+    specularIntensity: 0.62
+    specularPower: 54
+    matCapIntensity: 0.34
+    metalMaskFallback: 0
+    overlayColorBoost: 1
+  - materialIndex: 16
+    responseType: 0
+    featureGroup: 0
+    specularIntensity: 0
+    specularPower: 32
+    matCapIntensity: 0
+    metalMaskFallback: 0
+    overlayColorBoost: 1
+  - materialIndex: 17
+    responseType: 1
+    featureGroup: 0
+    specularIntensity: 0.2
+    specularPower: 24
+    matCapIntensity: 0
+    metalMaskFallback: 0
+    overlayColorBoost: 1
+  - materialIndex: 18
+    responseType: 1
+    featureGroup: 0
+    specularIntensity: 0.22
+    specularPower: 24
+    matCapIntensity: 0
+    metalMaskFallback: 0
+    overlayColorBoost: 1
+  - materialIndex: 19
+    responseType: 0
+    featureGroup: 0
+    specularIntensity: 0
+    specularPower: 32
+    matCapIntensity: 0
+    metalMaskFallback: 0
+    overlayColorBoost: 1
+  - materialIndex: 20
+    responseType: 3
+    featureGroup: 1
+    specularIntensity: 0.62
+    specularPower: 54
+    matCapIntensity: 0.34
+    metalMaskFallback: 0
+    overlayColorBoost: 1
+  - materialIndex: 21
+    responseType: 3
+    featureGroup: 1
+    specularIntensity: 0.62
+    specularPower: 54
+    matCapIntensity: 0.34
+    metalMaskFallback: 0
+    overlayColorBoost: 1
+  - materialIndex: 22
+    responseType: 3
+    featureGroup: 1
+    specularIntensity: 0.62
+    specularPower: 54
+    matCapIntensity: 0.34
+    metalMaskFallback: 0
+    overlayColorBoost: 1
+  - materialIndex: 23
+    responseType: 3
+    featureGroup: 1
+    specularIntensity: 0.62
+    specularPower: 54
+    matCapIntensity: 0.34
+    metalMaskFallback: 0
+    overlayColorBoost: 1
+  - materialIndex: 24
+    responseType: 3
+    featureGroup: 1
+    specularIntensity: 0.78
+    specularPower: 68
+    matCapIntensity: 0.46
+    metalMaskFallback: 1
+    overlayColorBoost: 1
+  - materialIndex: 25
+    responseType: 3
+    featureGroup: 1
+    specularIntensity: 0.62
+    specularPower: 54
+    matCapIntensity: 0.34
+    metalMaskFallback: 0
+    overlayColorBoost: 1
+  - materialIndex: 26
+    responseType: 0
+    featureGroup: 0
+    specularIntensity: 0
+    specularPower: 32
+    matCapIntensity: 0
+    metalMaskFallback: 0
+    overlayColorBoost: 1
+  - materialIndex: 27
+    responseType: 3
+    featureGroup: 1
+    specularIntensity: 0.62
+    specularPower: 54
+    matCapIntensity: 0.34
+    metalMaskFallback: 0
+    overlayColorBoost: 1
+  - materialIndex: 28
+    responseType: 2
+    featureGroup: 2
+    specularIntensity: 0.32
+    specularPower: 34
+    matCapIntensity: 0
+    metalMaskFallback: 0
+    overlayColorBoost: 1
+  - materialIndex: 29
+    responseType: 0
+    featureGroup: 3
+    specularIntensity: 0
+    specularPower: 32
+    matCapIntensity: 0
+    metalMaskFallback: 0
+    overlayColorBoost: 1.65
+  - materialIndex: 30
+    responseType: 0
+    featureGroup: 0
+    specularIntensity: 0
+    specularPower: 32
+    matCapIntensity: 0
+    metalMaskFallback: 0
+    overlayColorBoost: 1

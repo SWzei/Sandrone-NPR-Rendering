@@ -1,0 +1,93 @@
+# Unity generated state (at any project depth)
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# IDE and operating-system files
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.tmp
+*.bak
+*.swp
+*.pyc
+__pycache__/
+.DS_Store
+Thumbs.db
+Desktop.ini
+sysinfo.txt
+
+# Local audit, scratch and superseded working records
+/work/
+/Unity/SandroneToon_M5Audit/
+/GI Chat History.md
+/原神风格非真实感渲染技术管线.pre-M0-20260714.md
+
+# Third-party source packages and converted character geometry. Keep locally;
+# their .meta files remain trackable so Unity GUID contracts stay stable.
+/【桑多涅】/
+/Source/MMD/【桑多涅】/
+/Source/Blender/Sandrone_MMD_Baseline.blend
+/Source/Blender/Sandrone_M0_BlenderReport.json
+/Blender/**/*.blend
+/Unity/SandroneToon/Assets/Sandrone/Models/**/*.fbx
+/Unity/SandroneToon/Assets/Sandrone/Models/Generated/Sandrone_Outline_M7.asset
+
+# Original or directly derived character textures. Project-authored Ramp,
+# MatCap, neutral control map and deterministic Face SDF seed stay trackable.
+/Unity/SandroneToon/Assets/Sandrone/Textures/SourceBase/*.png
+/Unity/SandroneToon/Assets/Sandrone/Textures/OptionalEyeGear/*.png
+/Unity/SandroneToon/Assets/Sandrone/Textures/M8/*.png
+/Unity/SandroneToon/Assets/Sandrone/Textures/Control/Sandrone_Body_Control.png
+/Unity/SandroneToon/Assets/Sandrone/Textures/Control/Sandrone_Hair_Control.png
+/Unity/SandroneToon/Assets/Sandrone/Textures/Control/Sandrone_Skirt_Control.png
+
+# Generated validation reports contain stale session hashes and machine paths.
+# Regenerate them locally from the current project when evidence is required.
+/Unity/SandroneToon/Assets/Sandrone/Reports/*.json
+
+# Test evidence is local-only by default. The eight images used by README.md
+# are explicit, reviewable exceptions and retain their existing paths.
+/Unity/SandroneToon/TestArtifacts/**
+!/Unity/SandroneToon/TestArtifacts/M0/
+!/Unity/SandroneToon/TestArtifacts/M0/ReferenceComparison/
+!/Unity/SandroneToon/TestArtifacts/M0/ReferenceComparison/M0_Front.png
+!/Unity/SandroneToon/TestArtifacts/M2/
+!/Unity/SandroneToon/TestArtifacts/M2/ReferenceComparison/
+!/Unity/SandroneToon/TestArtifacts/M2/ReferenceComparison/M2_FinalToon_Front.png
+!/Unity/SandroneToon/TestArtifacts/M3/
+!/Unity/SandroneToon/TestArtifacts/M3/Debug/
+!/Unity/SandroneToon/TestArtifacts/M3/Debug/M3_Ground_WithCaster.png
+!/Unity/SandroneToon/TestArtifacts/M4/
+!/Unity/SandroneToon/TestArtifacts/M4/AB/
+!/Unity/SandroneToon/TestArtifacts/M4/AB/M4_AllOn.png
+!/Unity/SandroneToon/TestArtifacts/M6/
+!/Unity/SandroneToon/TestArtifacts/M6/ReferenceComparison/
+!/Unity/SandroneToon/TestArtifacts/M6/ReferenceComparison/M6_Head_ThreeQuarter.png
+!/Unity/SandroneToon/TestArtifacts/M7/
+!/Unity/SandroneToon/TestArtifacts/M7/ReferenceComparison/
+!/Unity/SandroneToon/TestArtifacts/M7/ReferenceComparison/M7_FinalToon_Front.png
+!/Unity/SandroneToon/TestArtifacts/M8/
+!/Unity/SandroneToon/TestArtifacts/M8/ReferenceComparison/
+!/Unity/SandroneToon/TestArtifacts/M8/ReferenceComparison/M8_FinalCombined_Front.png
+!/Unity/SandroneToon/TestArtifacts/M9GameViewAudit/
+!/Unity/SandroneToon/TestArtifacts/M9GameViewAudit/D3D12/
+!/Unity/SandroneToon/TestArtifacts/M9GameViewAudit/D3D12/GameView_M9_Final_SMAA_768x1280.png

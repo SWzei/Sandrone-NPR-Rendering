@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6703ef6a2acc60a4e925637729412fd8, type: 3}
+  m_Name: SandroneVfxBloomProfile_M8
+  m_EditorClassIdentifier: Assembly-CSharp::SandroneToon.SandroneM8VfxBloomProfile
+  contractVersion: SandroneVfxBloomProfile_v1_M8
+  selectedModules: EyeLight+CrystallineSword
+  eyeEmissionColor: {r: 0.08, g: 0.55, b: 1, a: 1}
+  eyeEmissionIntensity: 3.2
+  crystalEmissionColor: {r: 0.05, g: 0.72, b: 1, a: 1}
+  crystalEmissionIntensity: 2.8
+  crystalFresnelIntensity: 0.55
+  crystalFresnelPower: 3
+  bloomThreshold: 1.1
+  bloomIntensity: 0.35
+  bloomScatter: 0.55
+  bloomClamp: 8
